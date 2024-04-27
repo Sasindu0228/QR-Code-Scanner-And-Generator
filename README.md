@@ -1,16 +1,13 @@
-# qr_code_scanner_gen
+# QR Code Scanner and Generator
 
-A new Flutter project.
+This Flutter application provides functionality for both scanning and generating QR codes.
 
-## Getting Started
+## QR Code Scanner
 
-This project is a starting point for a Flutter application.
+The QR code scanner feature allows users to use their device's camera to scan QR codes. Upon scanning, the application interprets the information encoded within the QR code, which could include text, URLs, or other data. This feature is helpful for quickly accessing information encoded in QR codes, such as website links, contact information, or product details.
 
-A few resources to get you started if this is your first Flutter project:
+## QR Code Generator
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+With the QR code generator feature, users can create their own QR codes by inputting data such as text, URLs, or contact details. The generator then encodes this information into a QR code format, which can be easily shared, printed, or displayed digitally. This feature provides a convenient way to encode information into QR codes for various purposes, including sharing website links, creating digital business cards, or facilitating contactless transactions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
